@@ -1,7 +1,3 @@
-background: linear-gradient(90deg, #8e2de2, #4a00e0, #ff00cc, #3333ff);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-
 <div align="center">
     <img src="https://github.com/maeladv/maeladv/blob/main/github_illu_paysage.png" alt="Banner of a developer sitting in front of a desk" width=768 heigh=512>
 </div>
