@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ff00cc&duration=4000&lines=Hi+There!+👋;+I'm+Mael!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### 🎓 I'm a student in Computer Science and Cybersecurity, passionate about ethical hacking, network security, and development.
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
 - 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
