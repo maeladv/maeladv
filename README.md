@@ -42,8 +42,7 @@
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=maeladv&theme=synthwave&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="maeadv's GitHub Stats" />
   <!-- <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=maeladv&theme=transparent&count_private=true&border_radius=10&locale=en&cache_seconds=86400" alt="maeladv's" /> -->
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=maeladv&theme=synthwave&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&include_orgs=true" alt="maeladv's Most Used Languages" />
-    <img width=325 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=maeladv&layout=donut&include_orgs=true" alt="maeladv's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=maeladv&theme=synthwave&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="maeladv's Most Used Languages" />
 </div>
 
 <hr>
