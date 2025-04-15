@@ -10,7 +10,6 @@
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
 - 💬 Ask me about **Java, Node.js, React...or anything <a href="https://github.com/maeladv/maeladv/issues" style="color:#ff00cc; text-decoration: none">here</a>**
-- <a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 
 <br>
 
