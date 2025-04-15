@@ -2,14 +2,8 @@
     <img src="https://github.com/maeladv/maeladv/blob/main/github_illu_paysage.png" alt="Banner of a developer sitting in front of a desk" width=768 heigh=512>
 </div>
 
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ff00cc&duration=4000&lines=Hi+There!+👋;+I'm+Mael!;" />
-</h1> -->
-
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #8e2de2, #4a00e0, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent;">
-    Hi there, I’m Maël 👋
-  </span>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ff00cc&duration=4000&lines=Hi+There!+👋;+I'm+Mael!;" />
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
@@ -47,7 +41,7 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=maeladv&theme=synthwave&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="maeadv's GitHub Stats" />
-  <!--<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=maeladv&theme=transparent&count_private=true&border_radius=10&locale=en&cache_seconds=86400" alt="maeladv's" /> -->
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=maeladv&theme=transparent&count_private=true&border_radius=10&locale=en&cache_seconds=86400" alt="maeladv's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=maeladv&theme=synthwave&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="maeladv's Most Used Languages" />
 </div>
 
