@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <a href="advissemael@gmail.com">
+  <a href="mailto:advissemael@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/mael-advisse-13b360292/" target="_blank">
