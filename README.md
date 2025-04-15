@@ -9,7 +9,7 @@
 ### 🎓 I'm a student in Computer Science and Cybersecurity, passionate about ethical hacking, network security, and development.
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything <a href="https://github.com/maeladv/maeladv/issues" style="color:#ff00cc;">here</a>**
+- 💬 Ask me about **Java, Node.js, React...or anything [![Custom Link](https://via.placeholder.com/150/ff00cc/FFFFFF?text=Click+Here)](https://github.com/maeladv/maeladv/issues)**
 
 <br>
 
