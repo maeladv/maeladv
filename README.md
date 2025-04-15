@@ -1,8 +1,4 @@
-## Hi there 👋
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/maeladv/count.svg" alt="Visitor's Count" />
-</div>
+<img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
 
 <!--
 **maeladv/maeladv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
