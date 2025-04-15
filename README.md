@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=2B213A&duration=4000&lines=Hi+There!+👋;+I'm+Maël!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=E5289E&duration=4000&lines=Hi+There!+👋;+I'm+Maël!;" />
 </h1>
 
 ### 🎓 I'm a student in Computer Science and Cybersecurity, passionate about ethical hacking, network security, and development.
