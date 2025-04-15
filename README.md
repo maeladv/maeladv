@@ -26,9 +26,9 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,django,html,css,js,docker" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,django,html,css,js" />
     <br>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,ubuntu,kali,notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,linux,ubuntu,kali,notion" />
 </p>
 
 <hr>
