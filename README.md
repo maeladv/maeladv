@@ -2,8 +2,14 @@
     <img src="https://github.com/maeladv/maeladv/blob/main/github_illu_paysage.png" alt="Banner of a developer sitting in front of a desk" width=768 heigh=512>
 </div>
 
-<h1 align="center">
+<!--<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ff00cc&duration=4000&lines=Hi+There!+👋;+I'm+Mael!;" />
+</h1> -->
+
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #8e2de2, #4a00e0, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent;">
+    Hi there, I’m Maël 👋
+  </span>
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
