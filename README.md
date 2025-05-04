@@ -1,4 +1,4 @@
-<div align="center">
+9<div align="center">
     <img src="https://github.com/maeladv/maeladv/blob/main/github_illu_paysage.png" alt="Banner of a developer sitting in front of a desk" width=768 heigh=512>
 </div>
 
@@ -39,7 +39,7 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats-git-main-maeladvs-projects.vercel.app/api?username=maeladv&theme=synthwave&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="maeadv's GitHub Stats" />
-  <img width=325 src="https://github-readme-stats-git-main-maeladvs-projects.vercel.app/api/top-langs?username=maeladv&theme=synthwave&layout=donut&border_radius=10&show_icons=true&locale=en&exclude_repo=github-readme-stats&exclude_repo=typst" alt="maeladv's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats-git-main-maeladvs-projects.vercel.app/api/top-langs?username=maeladv&theme=synthwave&layout=donut&border_radius=10&show_icons=true&locale=en&exclude_repo=github-readme-stats,typst" alt="maeladv's Most Used Languages" />
 </div>
 
 <hr>
