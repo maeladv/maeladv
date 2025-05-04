@@ -1,4 +1,4 @@
-9<div align="center">
+<div align="center">
     <img src="https://github.com/maeladv/maeladv/blob/main/github_illu_paysage.png" alt="Banner of a developer sitting in front of a desk" width=768 heigh=512>
 </div>
 
