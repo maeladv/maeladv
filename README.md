@@ -54,7 +54,7 @@
   </picture>
 </div>
 
-<hr>>
+<hr>
 
 
 
