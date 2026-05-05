@@ -22,9 +22,9 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,django,html,css,js,threejs" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,django,html,css,js,threejs,go" />
     <br>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,linux,ubuntu,kali,notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,linux,ubuntu,kali,notion,postgresql" />
 </p>
 
 <hr>
