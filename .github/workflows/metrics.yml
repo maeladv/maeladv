@@ -16,6 +16,7 @@ jobs:
           user: maeladv
 
           template: classic
+          config_display: large
 
           base: header, activity, community, repositories, metadata
 
