@@ -7,17 +7,19 @@
 <br>
 
 <div align="center">
-  <a href="mailto:maeladvisse@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-333333?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <a href="mailto:contact@maeladvisse.fr">
+    <img src="https://img.shields.io/badge/ProtonMail-333333?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
   </a>
   <a href="https://www.linkedin.com/in/mael-advisse/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.root-me.org/mael_adv" target="_blank">
-      <img src="https://img.shields.io/badge/RootMe-black?style=for-the-badge&logo=data:image/                svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZmlsbD0iI2ZmNjYwMCIgZD0iTTE2IDJDOCAyIDIgOCAyIDE2czYgMTQgMTQgMTQgMTQtNiAxNC0xNFMyNCAyIDE2IDJ6Ii8+PC9zdmc+" alt="RootMe" />
+    <img src="https://img.shields.io/badge/RootMe-FF6600?style=for-the-badge&logo=rootme&logoColor=white" alt="RootMe" />
+  </a>
+  <a href="https://tryhackme.com/p/mael_adv" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
 </div>
-
 <hr>
 
 ## 🛠️ Languages and Tools
