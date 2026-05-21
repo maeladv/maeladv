@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.root-me.org/mael_adv" target="_blank">
-    <img src="https://img.shields.io/badge/RootMe-FF6600?style=for-the-badge&logo=rootme&logoColor=white" alt="RootMe" />
+    <img src="https://img.shields.io/badge/RootMe-E11B22?style=for-the-badge&logo=rootme&logoColor=white" alt="RootMe" />
   </a>
   <a href="https://tryhackme.com/p/maeladv" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
