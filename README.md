@@ -15,7 +15,7 @@
   <a href="https://www.root-me.org/mael_adv" target="_blank">
     <img src="https://img.shields.io/badge/RootMe-FF6600?style=for-the-badge&logo=rootme&logoColor=white" alt="RootMe" />
   </a>
-  <a href="https://tryhackme.com/p/mael_adv" target="_blank">
+  <a href="https://tryhackme.com/p/maeladv" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
 </div>
