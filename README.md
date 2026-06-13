@@ -24,16 +24,23 @@
 ## 🛠️ Languages and Tools
 
 <br>
-
+## Langages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,python,go,js" />
-  <br>
+</p>
+
+## Web & frameworks
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,django" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nmap,wireshark,metasploit,burpsuite" />
-  <br>
+</p>
+
+## DevOps & outils
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,kali,postgresql" />
-  <br>
+</p>
+
+## Design & productivité
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,notion" />
 </p>
 
