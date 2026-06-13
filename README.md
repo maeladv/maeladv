@@ -26,9 +26,15 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,django,html,css,js,threejs,go" />
-    <br>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,linux,ubuntu,kali,notion,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,go,js" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,django" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nmap,wireshark,metasploit,burpsuite" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,kali,postgresql" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma,notion" />
 </p>
 
 <hr>
